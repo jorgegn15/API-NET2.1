@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\dataaccess\\bbddcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\dataaccess\\bbddcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\repository\\modelitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\repository\\modelitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\models\\modelitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\models\\modelitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\request\\modelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\request\\modelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|c:\\users\\jorge\\onedrive\\documentos\\udemy\\curso.net\\apinetcore\\apinetcore\\repository\\imodelitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B0BE7-0D0C-45A7-8811-80D5CB532A21}|ApiNetCore\\ApiNetCore.csproj|solutionrelative:apinetcore\\repository\\imodelitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Request\\ModelRequest.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Request\\ModelRequest.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Request\\ModelRequest.cs",
+              "RelativeToolTip": "ApiNetCore\\Request\\ModelRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:30:23.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelItem.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Models\\ModelItem.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Models\\ModelItem.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Models\\ModelItem.cs",
+              "RelativeToolTip": "ApiNetCore\\Models\\ModelItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:29:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IModelItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Repository\\IModelItemRepository.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Repository\\IModelItemRepository.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Repository\\IModelItemRepository.cs",
+              "RelativeToolTip": "ApiNetCore\\Repository\\IModelItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:22:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BBDDContext.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\DataAccess\\BBDDContext.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\DataAccess\\BBDDContext.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\DataAccess\\BBDDContext.cs",
+              "RelativeToolTip": "ApiNetCore\\DataAccess\\BBDDContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:11:35.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Repository\\ModelItemRepository.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Repository\\ModelItemRepository.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Repository\\ModelItemRepository.cs",
+              "RelativeToolTip": "ApiNetCore\\Repository\\ModelItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:10:22.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Startup.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Startup.cs",
+              "RelativeToolTip": "ApiNetCore\\Startup.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:48:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "ApiNetCore\\Controllers\\ModelController.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documentos\\Udemy\\Curso.Net\\ApiNetCore\\ApiNetCore\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "ApiNetCore\\Controllers\\ModelController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:01:41.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
